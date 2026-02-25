@@ -1,2 +1,11 @@
-# Data_Analytics_Dashboard
-Data Analytics Dashboard on Traffic is an interactive system that analyzes real-time and historical traffic data to uncover patterns in congestion, peak hours, vehicle flow, and accident trends. Using clear visualizations and dynamic charts data-driven decisions to improve road efficiency, urban planning, and transportation safety.
+
+  # Data Analytics Dashboard
+
+  This is a code bundle for Data Analytics Dashboard. The original project is available at https://www.figma.com/design/9stYAlZFbPDzvrh7qyYadr/Data-Analytics-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
